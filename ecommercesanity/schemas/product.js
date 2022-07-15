@@ -29,6 +29,7 @@ export default {
       { 
         name: 'price',
         title: 'Price',
+        description:'Keep price low',
         type: 'number',
       },
       { 
