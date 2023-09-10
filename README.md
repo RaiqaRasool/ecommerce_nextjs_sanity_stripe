@@ -5,7 +5,5 @@ This is an ecommerce website made using:
 3. Stripe API for payment
 
 
-Link to sanity dashboard is: https://ecommerce-nextjs-sanity-stripe-rust.vercel.app/
-
 
 Link to website: https://ecommerce-nextjs-sanity-stripe-rust.vercel.app/
